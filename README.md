@@ -8,6 +8,7 @@ It uses SQL at **basic, intermediate, and advanced levels**, applying queries su
 
 ## 📂 Dataset Structure
 The dataset consists of the following tables:
+<img width="1207" height="669" alt="image" src="https://github.com/user-attachments/assets/c920aa2f-d82e-43ad-a4de-6841a31fa7ee" />
 
 
 ## 🎯 Project Objectives
